@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "dioxus-template",
+    "yew-template",
+]
