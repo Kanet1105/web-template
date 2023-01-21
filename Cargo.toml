@@ -2,5 +2,5 @@
 
 members = [
     "dioxus-template",
-    "yew-template",
+    "backend-server",
 ]
