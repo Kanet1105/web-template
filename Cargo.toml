@@ -1,6 +1,6 @@
 [workspace]
 
 members = [
-    "dioxus-template",
     "backend-server",
+    "yew-template",
 ]
